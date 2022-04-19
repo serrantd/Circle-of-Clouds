@@ -1,0 +1,11 @@
+{
+  "name": "circle_of_clouds",
+  "version": "1.0.0",
+  "description": "Server-based Web Application that manages the exchange of files between different cloud services (Dropbox, Google Drive, OneDrive)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darrius Serrant",
+  "license": "GPL-3.0-or-later"
+}
